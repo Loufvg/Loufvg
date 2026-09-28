@@ -1,9 +1,9 @@
 ## Bonjour bonjour ! 👋
 
-<h1 align="center">Hi 👋, I'm Lou</h1>
-<h3 align="center">a French second-year computer science student</h3>
+<h1 align="center">Hi, I'm Lou, or Louphoque, Loutriquet...</h1>
+<h3 align="center">a French third-year computer science student (engineer soon ahah)</h3>
 
-I love creating things, you can check out my repositories if you like :)
+I love creating things, you cannot check out my repositories if you like, cause they are all privates :)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
